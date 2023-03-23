@@ -1,0 +1,5 @@
+venv/
+.env
+patreon-sheet.json
+__pycache__/
+.idea
